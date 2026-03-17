@@ -1,0 +1,20 @@
+# KiCad
+*.kicad_prl
+*.bak
+*.kicad_sch-bak
+*.tmp
+*.autosave
+*_autosave*
+*.lck
+#auto_saved_files#
+
+# backups
+*-backups/
+*.zip
+
+# cache
+fp-info-cache
+
+# system
+Thumbs.db
+.DS_Store
