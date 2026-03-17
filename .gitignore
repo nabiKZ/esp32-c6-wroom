@@ -8,6 +8,10 @@
 *.lck
 #auto_saved_files#
 
+# KiCad autosave
+#auto_saved_files#
+~*.lck
+
 # backups
 *-backups/
 *.zip
