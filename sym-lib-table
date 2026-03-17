@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Sensor_Humidity_new")(type "KiCad")(uri "C:/Users/Nabin/Downloads/Sensor_Humidity_new.kicad_sym")(options "")(descr ""))
+)
